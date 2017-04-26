@@ -1,0 +1,20 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-facebook4": {
+            "APP_ID": "1548396662121549",
+            "APP_NAME": "IONIC DEMO",
+            "PACKAGE_NAME": "com.demo.hello"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.demo.hello"
+        }
+    },
+    "dependent_plugins": {}
+}
